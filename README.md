@@ -4,6 +4,8 @@
 
 This project is a **data visualization dashboard** built to analyze **crop production trends, yield performance, and seasonal patterns** for agricultural insights and decision support.
 
+<img width="720" height="395" alt="image" src="https://github.com/user-attachments/assets/6ed19bca-e9e7-4451-b7aa-47d9636268bd" />
+
 ---
 
 ## 🎯 Dashboard Goals
